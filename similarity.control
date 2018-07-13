@@ -1,0 +1,4 @@
+comment = 'similarity queries'
+default_version = '1.0'
+module_pathname = '$libdir/similarity'
+relocatable = true
